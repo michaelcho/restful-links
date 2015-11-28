@@ -11,8 +11,8 @@ A lightweight (minified 2kb, unminified 6kb) jQuery plugin to send REST-ful requ
 
 ### Method 1: Download JS files
 Include after jQuery in your HTML:
-+ [restful.js](https://github.com/michaelcho/restful/dist/restful.js) un-minified, or
-+ [restful.min.js](https://github.com/michaelcho/restful/dist/restful.min.js) minified
++ [restful.js](https://raw.githubusercontent.com/michaelcho/restful-links/master/dist/restful.js) un-minified, or
++ [restful.min.js](https://raw.githubusercontent.com/michaelcho/restful-links/master/dist/restful.min.js) minified
 
 ### Method 2: Use Bower
 * `bower install restful-links`
