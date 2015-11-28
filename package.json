@@ -1,0 +1,33 @@
+{
+  "name": "restful-links",
+  "version": "0.0.1",
+  "description": "Send PUT, PATCH, DELETE requests from any HTML element",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelcho/restful-links"
+  },
+  "keywords": [
+    "jquery",
+    "HTTP",
+    "verbs",
+    "PUT",
+    "PATCH",
+    "DELETE",
+    "requests"
+  ],
+  "author": "Michael Cho",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/michaelcho/restful-links/issues"
+  },
+  "homepage": "https://github.com/michaelcho/restful-links",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.1"
+  }
+}

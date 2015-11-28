@@ -1,0 +1,16 @@
+<html>
+    <head></head>
+    <body>
+        <a href="/myobject/1" data-method="delete">Delete</a>
+        <a href="/myobject/1" data-method="patch" data-attr-enabled="false">Update</a>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        <script src="../dist/restful.min.js"></script>
+        <script>
+            // Initialize RestfulLinks with default options
+            $(document).ready(function(){
+                $('body').restfullinks()
+            })
+        </script>
+    </body>
+</html>
