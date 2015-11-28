@@ -1,0 +1,29 @@
+{
+  "name": "restful-links",
+  "version": "0.0.1",
+  "homepage": "https://github.com/michaelcho/restful-links",
+  "authors": [
+    "Michael Cho"
+  ],
+  "description": "Send PUT, PATCH, DELETE requests from any HTML element",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "jquery",
+    "HTTP",
+    "verbs",
+    "PUT",
+    "PATCH",
+    "DELETE",
+    "requests"
+  ],
+  "license": "GNU",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -7,10 +7,18 @@ A lightweight (minified 2kb, unminified 6kb) jQuery plugin to send REST-ful requ
 * Clicking the targeted element triggers the form to be submitted.
 * Optional "click to confirm" setting with warning message.
 
-## Quick Install
+## Installation
+
+### Method 1: Download JS files
 Include after jQuery in your HTML:
-+ [restful.js](https://raw.githubusercontent.com/michaelcho/restful-links/master/dist/restful.js) un-minified, or
-+ [restful.min.js](https://raw.githubusercontent.com/michaelcho/restful-links/master/dist/restful.min.js) minified
++ [restful.js](https://github.com/michaelcho/restful/dist/restful.js) un-minified, or
++ [restful.min.js](https://github.com/michaelcho/restful/dist/restful.min.js) minified
+
+### Method 2: Use Bower
+* `bower install restful-links`
+* Copy the `restful.js` or `restful.min.js` files from `bower_components/restful-links/dist` to wherever you need.
+ 
+## Usage
 
 For example:
 ``` html
